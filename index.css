@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  color: aliceblue;
+  background-color: #41bad2;
+}
+
+a {
+  text-decoration: none;
+}
+
+.position1 {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
+
+section {
+  padding-top: 7rem;
+}
+
+#about {
+  padding-top: 12rem;
+}
